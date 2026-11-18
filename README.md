@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://github.com/Zero521">
-  <img src="./assets/banner.svg" width="100%" alt="Zero521 — Reverse engineering · Binary analysis · Low-level development" />
+  <img src="assets/banner.svg" width="1000" alt="Zero521 — Reverse engineering · Binary analysis · Low-level development" />
 </a>
 
 <br />
