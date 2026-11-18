@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="assets/banner.svg" width="1000" alt="Zero521 — Reverse engineering · Binary analysis · Low-level development" />
+<img src="assets/banner.svg" width="1000" alt="Kverty125 — Reverse engineering · Binary analysis · Low-level development" />
 
 <br />
 
-<a href="https://github.com/Zero521?tab=repositories"><img src="https://img.shields.io/badge/Explore_repositories-161B22?style=for-the-badge&amp;logo=github&amp;logoColor=E6EDF3" alt="Explore repositories" /></a>
+<a href="https://github.com/Kverty125?tab=repositories"><img src="https://img.shields.io/badge/Explore_repositories-161B22?style=for-the-badge&amp;logo=github&amp;logoColor=E6EDF3" alt="Explore repositories" /></a>
 &nbsp;
-<a href="https://github.com/Zero521?tab=followers"><img src="https://img.shields.io/github/followers/Zero521?label=Followers&amp;style=for-the-badge&amp;color=161B22&amp;labelColor=161B22&amp;logo=github&amp;logoColor=E6EDF3" alt="GitHub followers of Zero521" /></a>
+<a href="https://github.com/Kverty125?tab=followers"><img src="https://img.shields.io/github/followers/Kverty125?label=Followers&amp;style=for-the-badge&amp;color=161B22&amp;labelColor=161B22&amp;logo=github&amp;logoColor=E6EDF3" alt="GitHub followers of Kverty125" /></a>
 
 <br /><br />
 
@@ -19,7 +19,7 @@
 ### `01` &nbsp; / &nbsp; About
 
 ```yaml
-handle: Zero521
+handle: Kverty125
 role: Reverse Engineer
 focus:
   - Reverse engineering
@@ -40,11 +40,10 @@ languages: [C, C++, C#, Python, Java]
 
 ### `03` &nbsp; / &nbsp; Find me
 
-[**github.com/Zero521 ↗**](https://github.com/Zero521) &nbsp; · &nbsp; [Repositories](https://github.com/Zero521?tab=repositories) &nbsp; · &nbsp; [Activity](https://github.com/Zero521?tab=overview)
+[**github.com/Kverty125 ↗**](https://github.com/Kverty125) &nbsp; · &nbsp; [Repositories](https://github.com/Kverty125?tab=repositories) &nbsp; · &nbsp; [Activity](https://github.com/Kverty125?tab=overview) &nbsp; · &nbsp; [Telegram](https://t.me/zhunsksk)
 
 ---
 
 <div align="center">
-  <sub><code>Zero521</code> &nbsp; / &nbsp; Read the bytes. Understand the system.</sub>
+  <sub><code>Kverty125</code> &nbsp; / &nbsp; Read the bytes. Understand the system.</sub>
 </div>
-
